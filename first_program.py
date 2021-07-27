@@ -4,6 +4,9 @@ import numpy as np
 b = np.ones(2)
 c = np.ones(4)
 d = np.ones(5)
+e = np.ones(6)
+f = np.ones(7)
+print(b,c,d,e,f)
 '''
 # Convert numpy to tensor
 
